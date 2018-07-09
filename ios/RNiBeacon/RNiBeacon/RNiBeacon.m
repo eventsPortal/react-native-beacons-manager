@@ -11,6 +11,7 @@
 #import <React/RCTBridge.h>
 #import <React/RCTConvert.h>
 #import <React/RCTEventDispatcher.h>
+#import "ESSEddystone.h"
 
 #import "RNiBeacon.h"
 
